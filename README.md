@@ -1,3 +1,3 @@
 # 2024_Co-orchestration
 
-This repository contains the codes and supplementary materials related to the results presented in the article titled "Multimodal Co-orchestration for Exploring Structure-Property Relationships in Combinatorial Libraries via Multi-Task Bayesian Optimization".
+This repository contains the codes and supplementary materials related to the results presented in the article titled "Co-orchestration of Multiple Instruments to Uncover Structure-Property Relationships in Combinatorial Libraries".
